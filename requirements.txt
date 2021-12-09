@@ -1,4 +1,4 @@
-python<3.9.5
+python==3.6.6
 keras==2.7.0
 keras_nightly==2.5.0.dev2021032900
 matplotlib==3.4.2
